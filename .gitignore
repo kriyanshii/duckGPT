@@ -2,3 +2,6 @@ duckGPT
 .env
 .streamlit/
 .ipynb_checkpoints/
+*.json
+scripts/
+data/
